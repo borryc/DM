@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57951187369",
+    "project_id": "appwar-e0161",
+    "storage_bucket": "appwar-e0161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57951187369:android:0b29b57454020b6c5614b8",
+        "android_client_info": {
+          "package_name": "cristo.app.proyectodm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57951187369-tj54c4ochnnvhuek8031dh34ftnihk3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cristo.app.proyectodm",
+            "certificate_hash": "7b1ac5c56a47918be61ddc561fb16a2342f595bb"
+          }
+        },
+        {
+          "client_id": "57951187369-gkkrk83tgqk8j1dl85qqufbv0bdn90ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOndn8mgJS6SzvKG5Qlxc5oi-4EzMBEMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57951187369-gkkrk83tgqk8j1dl85qqufbv0bdn90ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

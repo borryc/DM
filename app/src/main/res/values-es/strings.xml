@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WalkNRun</string>
+    <string name="preferences_dark_mode">Modo oscuro</string>
+    <string name="preferences_metric_system">Sistema métrico</string>
+    <string name="preferences_options">Opciones</string>
+    <string name="preferences_language_selector">Lista de idiomas</string>
+    <string name="amigos_tus_solicitudes">Tus solicitudes</string>
+    <string name="amigos_anhadir_amigo">Añadir amigo</string>
+    <string name="amigos_tus_amigos">Tus amigos</string>
+    <string name="contrasenha_cambiar_contrasenha">Cambiar la contraseña</string>
+    <string name="contrasenha_introduce_datos">Introduce los datos</string>
+    <string name="contrasenha_contrasenha_actual">Contraseña actual</string>
+    <string name="contrasenha_nueva_contrasenha">Nueva contraseña</string>
+    <string name="contrasenha_repite_contrasenha">Repite la nueva contraseña</string>
+    <string name="historial_historial_pasos">Tu historial de pasos</string>
+    <string name="inicio_pasos">pasos</string>
+    <string name="login_inicio_sesion">Iniciar sesión</string>
+    <string name="login_email">Corre electrónico</string>
+    <string name="login_contrasenha">Contraseña</string>
+    <string name="login_olvidar_contrasenha">Olvidé mi contraseña</string>
+    <string name="login_registrarse_ahora">Registrate ahora</string>
+    <string name="main_el_mensaje">Andar o correr. Simplemente eso. O las dos cosas...</string>
+    <string name="perfil_pasos_totales">Pasos totales</string>
+    <string name="perfil_distancia">Distancia</string>
+    <string name="perfil_copiar_id">Copia tu id</string>
+    <string name="perfil_guardar_cambios">Guardar cambios</string>
+    <string name="perfil_descripcion">Descripción</string>
+    <string name="perfil_pulsa_editar">Pulsa para editar</string>
+    <string name="perfil_logout">Cerrar sesión</string>
+    <string name="ranking_ranking_mundial">Ranking Mundial</string>
+    <string name="ranking_tu_puesto">Tu puesto:</string>
+    <string name="recucontrasenha_recuperar_contrasenha">Recupera tu contraseña</string>
+    <string name="recucontrasenha_introducir_correo">Introduce un correo de recuperación</string>
+    <string name="recucontrasenha_recuperar">Recupera</string>
+    <string name="registrar_registro">Registrate</string>
+    <string name="registar_usuario">Usuario</string>
+    <string name="itemvic_solicitud">Solicitud de amistad</string>
+    <string name="pahistorial_pasos">Pasos</string>
+    <string name="adaptador_tienes_nuevo_amigo">¡Tienes un nuevo amigo!</string>
+    <string name="adaptador_solicitud_eliminada">Se ha borrado la solicitud</string>
+    <string name="AmigosActivity_id_igual">Ise es tu id. No es válido</string>
+    <string name="AmigosActivity_ya_es_amigo">Ese usuario ya es tu amigo</string>
+    <string name="AmigosActivity_solicitud_enviada">Solicitud enviada</string>
+    <string name="AmigosActivity_solicitud_vacia">Solicitud vacia</string>
+    <string name="AmigosActivity_usuario_no_existe">El usuario no se encontró</string>
+    <string name="CamContrasenhaActivity_rellena_campos">Todavía tienes campos sin cubrir</string>
+    <string name="CamContrasenhaActivity_contrasenhas_no_coinciden">Las contraseñas no coinciden</string>
+    <string name="CamContrasenhaActivity_contrasenha_actualizada">Se ha actualizado la contraseña</string>
+    <string name="CamContrasenhaActivity_contrasenha_no_actualizada">Ha ocurrido un fallo al actualizar tu contraseña</string>
+    <string name="InicioActivity_error_pasos_totales">Ha ocurrido un fallo al actualizar tus pasos</string>
+    <string name="LoginActivity_error_iniciar_sesion">Ha ocurrido un fallo al iniciar sesión</string>
+    <string name="PerfilActivity_guardar_cambios">Se han guardado los cambios</string>
+    <string name="PerfilActivity_guardar_cambios_error">Ha ocurrido un fallo al guardar los cambios</string>
+    <string name="PerfilActivity_id_copiado">El id ha sido copiado al portapapeles</string>
+    <string name="PerfilActivity_guardar_variable_error">Ha ocurrido un error al guardar los datos</string>
+    <string name="PerfilActivity_guardar_estas_seguro">¿Estás seguro que quieres guardar los cambios?</string>
+    <string name="PerfilActivity_aceptar">Aceptar</string>
+    <string name="PerfilActivity_cancelar">Cancelar</string>
+    <string name="PerfilActivity_guardar">Guardar</string>
+    <string name="PerfilActivity_abrir_galeria">Se abrirá la galería</string>
+    <string name="PerfilActivity_elige_imagen">Elige una imagen</string>
+    <string name="PerfilActivity_editar_perfil">Editar perfil</string>
+    <string name="RecuContrasenhaActivity_esperar">Espera un momento</string>
+    <string name="RecuContrasenhaActivity_intro_mail">Introduce un correo electrónico</string>
+    <string name="RecuContrasenhaActivity_correo_enviado">Se ha enviado el correo para que recuperes la contraseña</string>
+    <string name="RecuContrasenhaActivity_correo_enviado_error">Ha ocurrido un error el enviar el correo. Comprueba tu correo</string>
+    <string name="RegistrarActivity_usuario_registrado">Registrado con éxito</string>
+    <string name="RegistrarActivity_usuario_registrado_error">Ha ocurrido un error al registrarte</string>
+    <string name="RegistrarActivity_datos_error">No se ha podido crear tus datos</string>
+    <string name="AmigosActivity_eliminar_amigo">Amigo borrado</string>
+    <string name="AmigosActivity_anhadir_amigo">Engadir amigo</string>
+    <string name="AmigosActivity_escribir_id">Escribe el id de tu amigo</string>
+    <string name="AmigosActivity_enviar_solicitud">Enviar solicitud</string>
+    <string name="ConsejosActivity_tusconsejos">¡Apunta este consejo!</string>
+    <string name="Friend_indAct_pasostotales">Pasos totales</string>
+    <string name="Friend_indAct_distancia">Distancia total</string>
+    <string name="Friend_indAct_atras">ATRÁS</string>
+    <string name="menu_borrar">Borrar</string>
+    <string name="menu_ver_perfil">Ver perfil</string>
+    <string name="HistorialActivity_borrar_pasos">Se va a borrar TODO</string>
+
+    <!-- CONSEJOS -->
+    <string-array name="advices">
+        <item>Camina lenta y fácilmente durante unos cinco minutos para calentar, después incrementa tu velocidad durante unos 15 minutos.</item>
+        <item>Al caminar, mueve los brazos.</item>
+        <item>Camina con la espalda erguida, el abdomen plano y la cabeza hacia arriba.</item>
+        <item>Apunta los dedos de los pies hacia adelante.</item>
+        <item>Camina con un paso largo que sea cómodo y no requiera esfuerzo.</item>
+        <item>Termina tu caminata con un enfriamiento de cinco minutos y algunos estiramientos suaves.</item>
+        <item>Si dispones de tiempo, es buena idea ir a estirar las piernas en el descanso que tienes para comer en el trabajo.</item>
+        <item>Subir pisos a pie puede ser la mejor opción para obligarte a realizar alguna actividad física.</item>
+        <item>Si usas el transporte público, bajarte una parada antes en el metro o en el bus de camino al trabajo puede ayudarte a alcanzar esos 10 minutos diarios.</item>
+        <item>Utiliza ropa y calzado que te hagan confortable la experiencia.</item>
+        <item>Bebe un vaso de agua antes y después de caminar.</item>
+        <item>Busca el horario adecuado. Evita las caminatas largas después de las comidas.</item>
+        <item>Mantén un ritmo suave al principio y al final del paseo</item>
+        <item>Si sufres alguna dolencia cardiaca o cualquier enfermedad grave, consulta a tu médico antes de realizar un programa de ejercicios.</item>
+        <item>Si sientes dolor en el pecho, mareos o náuseas mientras caminas o haces ejercicio, para y visita a tu médico.</item>
+        <item>Camina acompañado. Recuerda que caminar con otras personas puede ser mucho más agradable que caminar solo.</item>
+        <item>Empieza poco a poco. Ve aumentando progresivamente el paseo hasta llegar a la media hora recomendada.</item>
+        <item>Ten una buena postura ayuda a la buena circulación y apertura de la caja torácica.</item>
+        <item>Lo ideal es llevar la mirada de tres a seis metros frente a nosotros, así podremos evitar obstáculos por delante y evitaremos la tensión en la parte superior del cuerpo.</item>
+        <item>Mantener los abdominales apretados, pero sin meter el coxis debajo ni "sacando panza".</item>
+    </string-array>
+    <!-- CONSEJOS -->
+</resources>

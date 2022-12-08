@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WalkNRun</string>
+    <string name="preferences_dark_mode">Modo escuro</string>
+    <string name="preferences_metric_system">Sistema métrico</string>
+    <string name="preferences_options">Opcións</string>
+    <string name="preferences_language_selector">A listaxe de linguas dispoñibles</string>
+    <string name="amigos_tus_solicitudes">As túas solicitudes</string>
+    <string name="amigos_anhadir_amigo">Engadir amigo</string>
+    <string name="amigos_tus_amigos">Os teus amigos</string>
+    <string name="contrasenha_cambiar_contrasenha">Cambiar o contrasinal</string>
+    <string name="contrasenha_introduce_datos">Introduce os datos</string>
+    <string name="contrasenha_contrasenha_actual">Contrasinal actual</string>
+    <string name="contrasenha_nueva_contrasenha">Novo contrasinal</string>
+    <string name="contrasenha_repite_contrasenha">Repite o novo contrasinal</string>
+    <string name="historial_historial_pasos">O teu historial de pasos</string>
+    <string name="inicio_pasos">pasos</string>
+    <string name="login_inicio_sesion">Iniciar a sesión</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_contrasenha">Contrasinal</string>
+    <string name="login_olvidar_contrasenha">Esquecinche o contrasinal</string>
+    <string name="login_registrarse_ahora">Rexistrateme agora!</string>
+    <string name="main_el_mensaje">Andar ou correr. Fai o que che veña en gana</string>
+    <string name="perfil_pasos_totales">Pasos totais</string>
+    <string name="perfil_distancia">Distancia</string>
+    <string name="perfil_copiar_id">Copia o teu id</string>
+    <string name="perfil_guardar_cambios">Gardar cambios</string>
+    <string name="perfil_descripcion">Descrición</string>
+    <string name="perfil_pulsa_editar">Toca pra editar</string>
+    <string name="perfil_logout">Pechar a sesión</string>
+    <string name="ranking_ranking_mundial">Ranking Mundial</string>
+    <string name="ranking_tu_puesto">O teu posto:</string>
+    <string name="recucontrasenha_recuperar_contrasenha">Recupera o teu contrasinal</string>
+    <string name="recucontrasenha_introducir_correo">Introduce un correo de recuperación</string>
+    <string name="recucontrasenha_recuperar">Recupera</string>
+    <string name="registrar_registro">Rexistrate</string>
+    <string name="registar_usuario">Usuario</string>
+    <string name="itemvic_solicitud">Solicitude de amizade de:</string>
+    <string name="pahistorial_pasos">Pasos</string>
+    <string name="adaptador_tienes_nuevo_amigo">Tesme un novo migo!</string>
+    <string name="adaptador_solicitud_eliminada">Borrouse a solicitude</string>
+    <string name="AmigosActivity_id_igual">Ise éche o teu id. Ise non vale</string>
+    <string name="AmigosActivity_ya_es_amigo">Ise usuario xa é o teu amigo</string>
+    <string name="AmigosActivity_solicitud_enviada">Solicitude enviada</string>
+    <string name="AmigosActivity_solicitud_vacia">Solicitude baleira</string>
+    <string name="AmigosActivity_usuario_no_existe">Usuario non atopado</string>
+    <string name="CamContrasenhaActivity_rellena_campos">Aínda che hai campos sen completar</string>
+    <string name="CamContrasenhaActivity_contrasenhas_no_coinciden">Os contrasinais non coinciden</string>
+    <string name="CamContrasenhaActivity_contrasenha_actualizada">O contrasinal foi actualizado</string>
+    <string name="CamContrasenhaActivity_contrasenha_no_actualizada">Foi mal cando tentamos actualizar o contrasinal</string>
+    <string name="InicioActivity_error_pasos_totales">Foi mal cando tentamos actualizar os teus pasos</string>
+    <string name="LoginActivity_error_iniciar_sesion">Foi mal cando tentamos iniciar a sesión</string>
+    <string name="PerfilActivity_guardar_cambios">Cambios ben gardados</string>
+    <string name="PerfilActivity_guardar_cambios_error">Foi mal cando tentamos gardar os cambios</string>
+    <string name="PerfilActivity_id_copiado">O id foi copiado ao portapapeis</string>
+    <string name="PerfilActivity_guardar_variable_error">Foi mal cando tentamos gardar os datos</string>
+    <string name="PerfilActivity_guardar_estas_seguro">Tes certeza de querer gardar os cambios?</string>
+    <string name="PerfilActivity_aceptar">Aceptar</string>
+    <string name="PerfilActivity_cancelar">Cancelar</string>
+    <string name="PerfilActivity_guardar">Gardar</string>
+    <string name="PerfilActivity_abrir_galeria">Abrirase a galería</string>
+    <string name="PerfilActivity_elige_imagen">Escolle unha imaxe</string>
+    <string name="PerfilActivity_editar_perfil">Editar o perfil</string>
+    <string name="RecuContrasenhaActivity_esperar">Espera un momento...</string>
+    <string name="RecuContrasenhaActivity_intro_mail">Introduce un correo electrónico</string>
+    <string name="RecuContrasenhaActivity_correo_enviado">Enviamosche o correo pra que recuperes o contrasinal</string>
+    <string name="RecuContrasenhaActivity_correo_enviado_error">Foi mal cando tentamos enviarche o correo. Comproba o correo</string>
+    <string name="RegistrarActivity_usuario_registrado">Rexistrado con éxito</string>
+    <string name="RegistrarActivity_usuario_registrado_error">Foi mal cando tentamos rexistarte</string>
+    <string name="RegistrarActivity_datos_error">Os teus datos non se puideron crear</string>
+    <string name="AmigosActivity_eliminar_amigo">Amigo borrado</string>
+    <string name="AmigosActivity_anhadir_amigo">Engadir amigo</string>
+    <string name="AmigosActivity_escribir_id">Escribe o id do teu amigo</string>
+    <string name="AmigosActivity_enviar_solicitud">Mandar solicitude</string>
+    <string name="ConsejosActivity_tusconsejos">¡Toma nota deste consello!</string>
+    <string name="Friend_indAct_pasostotales">Pasos totais</string>
+    <string name="Friend_indAct_distancia">Distancia total</string>
+    <string name="Friend_indAct_atras">ATRÁS</string>
+    <string name="menu_borrar">Borrar</string>
+    <string name="menu_ver_perfil">Ver o perfil</string>
+    <string name="HistorialActivity_borrar_pasos">Vaise borrar TODO</string>
+
+    <string-array name="advices">
+        <item>Camiñame amodo e facilmente durante uns cinco minuto pra quencer, logo incrementa a túa velocidade durante uns 15 minutos</item>
+        <item>Ao camiñares, móveme os brazos</item>
+        <item>Camiña co lombo recto,abdomen plano e a cabeza ollando pra á fronte</item>
+        <item>Pon os dedos dos pés ollando pra diante</item>
+        <item>Camiñame cun paso longo, que sexa cómodo e non precise de esforzo</item>
+        <item>Acaba a túa andaina pousándote cinco minutos e facendo estiradas suaves</item>
+        <item>Se tes tempo pra gastar, érache boa idea estalicar as patas no descanso pra xantar do traballo</item>
+        <item>Gastar as escaleiras é unha boa idea pra facer algo de exercicio</item>
+        <item>Se vas no transporte público, baixares unha parada antes no metro ou no bus a camiño do traballo pódeche axudar a alcanzar ises 10 minutos diarios</item>
+        <item>Gasta roupa e tenis que che fagan cómoda a experencia</item>
+        <item>Bébeme un vaso de auga antes e despois de camiñares</item>
+        <item>Busca un horario ben axeitado. Evita camiñadas longas despois das comidas</item>
+        <item>Ten un ritmo suave ao principio e ao final do paseo</item>
+        <item>Se sofres algunha doenza cardíaca ou calquera enfermidade grave, consulta ao teu médico antes de realizares un programa de exercicios</item>
+        <item>Se sintes dor no peito, mareos ou náuseas mentres camiñas ou fas exercicio, para e visita ao teu médico</item>
+        <item>Camiña acompañado. Acórdateme de que camiñar con outras persoas pode ser moito máis agradable que camiñar só</item>
+        <item>Empeza aos poucos. Vai aumentando progresivamente o paseo ata chegar á media hora recomendada</item>
+        <item>Ter unha boa postura axuda á boa circulación e abertura da caixa torácica</item>
+        <item>O ideal é levar a túa ollada de tres a seis metros diante de nós, entón poderemos ver os obstáculos de diante e evitar a tensión na parte superior do corpo</item>
+        <item>Manter os abdominais apertados, pero sen meter o coxis embaixo nin "presumir de bandullo"</item>
+    </string-array>
+    <!-- CONSEJOS -->
+</resources>

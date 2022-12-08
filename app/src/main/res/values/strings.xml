@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">WalkNRun</string>
+
+    <!-- Los strings se asignan por orden en layout. Si son lo mismo se reutilizan -->
+
+    <!-- AJUSTES -->
+    <string name="preferences_dark_mode">Dark Mode</string>
+    <string name="preferences_metric_system">Metric system</string>
+    <string name="preferences_options">Options</string>
+    <string name="preferences_language_selector">List of available languages</string>
+    <!-- AJUSTES -->
+
+    <!-- AMIGOS -->
+    <string name="amigos_tus_solicitudes">Your requests</string>
+    <string name="amigos_anhadir_amigo">Add friend</string>
+    <string name="amigos_tus_amigos">Your friends</string>
+    <!-- AMIGOS -->
+
+
+    <!-- CAMBIAR CONTRASEÑA -->
+    <string name="contrasenha_cambiar_contrasenha">Change password</string>
+    <string name="contrasenha_introduce_datos">Enter the data</string> <!-- repite -->
+    <string name="contrasenha_contrasenha_actual">Current password</string>
+    <string name="contrasenha_nueva_contrasenha">New password</string>
+    <string name="contrasenha_repite_contrasenha">Repeat the new password</string>
+    <!-- CAMBIAR CONTRASEÑA -->
+
+    <!-- HISTORIAL -->
+    <string name="historial_historial_pasos">Your steps record</string>
+    <!-- HISTORIAL -->
+
+    <!-- INICIO -->
+    <string name="inicio_pasos">steps</string>
+    <!-- INICIO -->
+
+
+    <!-- LOGIN -->
+    <string name="login_inicio_sesion">Log in</string>
+    <string name="login_email">Email</string>
+    <string name="login_contrasenha">Password</string>
+    <string name="login_olvidar_contrasenha">I forgot my passord</string>
+    <string name="login_registrarse_ahora">Register now!</string>
+    <!-- LOGIN -->
+
+    <!-- MAIN MENSAJE COMERCIALMENTE MOTIVADOR PARA MEJORAR LAS VENTAS DE NUESTRA APP HACIENDONOS RICOS -->
+    <!-- MOTIVATING MARKETING MESSAGE TO IMPROVE THE SALES OF OUR APP MAKING US RICH -->
+    <!-- MENSAXE COMERCIALMENTE MOTIVADORA PRA MELLORARMOS AS VENTAS DA NOSA APP E ESTAR PODRES DE CARTOS -->
+    <string name="main_el_mensaje">Just do the walkNrun and things will work</string>
+    <!-- MAIN -->
+
+
+    <!--PERFIL-->
+    <string name="perfil_pasos_totales">Total steps</string>
+    <string name="perfil_distancia">Distance</string>
+    <string name="perfil_copiar_id">Copy your id</string>
+    <string name="perfil_guardar_cambios">Save changes</string>
+    <string name="perfil_descripcion">Description</string>
+    <string name="perfil_pulsa_editar">Tap to edit</string>
+    <string name="perfil_logout">Log out</string>
+    <!--PERFIL -->
+
+    <!-- RANKING -->
+    <string name="ranking_ranking_mundial">World Ranking</string>
+    <string name="ranking_tu_puesto">Your place:</string>
+    <!-- RANKING -->
+
+    <!-- RECUPERAR CONTRASENHA -->
+    <string name="recucontrasenha_recuperar_contrasenha">Retrieve your password</string>
+    <string name="recucontrasenha_introducir_correo">Enter a recovery email</string>
+    <string name="recucontrasenha_recuperar">Retrieve</string>
+    <!-- RECUPERAR CONTRASENHA -->
+
+    <!-- REGISTRAR -->
+    <string name="registrar_registro">Sign in</string>
+    <string name="registar_usuario">User</string>
+    <!-- REGISTRAR -->
+
+    <!-- ITEM VIC -->
+    <string name="itemvic_solicitud">Friend request from:</string>
+    <!-- ITEM VIC -->
+
+    <!-- PASOS HISTORIAL -->
+    <string name="pahistorial_pasos">Pasos</string>
+    <!-- PASOS HISTORIAl -->
+
+    <!-- MENUS -->
+    <string name="menu_borrar">Delete</string>
+    <string name="menu_ver_perfil">View Profile</string>
+    <!-- MENUS -->
+
+    <!-- TOAST ADAPTADOR -->
+    <string name="adaptador_tienes_nuevo_amigo">You have a new friend!</string>
+    <string name="adaptador_solicitud_eliminada">The request was deleted</string>
+    <!-- TOAST ADAPTADOR -->
+
+    <!-- TOASTS AmigosAct -->
+    <string name="AmigosActivity_id_igual">That´s your id. That´s not valid</string>
+    <string name="AmigosActivity_ya_es_amigo">That user is already your friend</string>
+    <string name="AmigosActivity_solicitud_enviada">Request sent</string>
+    <string name="AmigosActivity_usuario_no_existe">User not found</string>
+    <string name="AmigosActivity_eliminar_amigo">Deleted friend</string>
+    <string name="AmigosActivity_anhadir_amigo">Add friend</string>
+    <string name="AmigosActivity_escribir_id">Write your friends´ id</string>
+    <string name="AmigosActivity_enviar_solicitud">Send request</string>
+    <string name="AmigosActivity_solicitud_vacia">Empty request</string>
+    <!-- TOAST AmigosAct -->
+
+    <!-- TOASTS ConsejosAct -->
+    <string name="ConsejosActivity_tusconsejos">¡Write down this advice!</string>
+    <!-- TOASTS ConsejosAct -->
+
+    <!-- TOASTS Friend_indAct -->
+    <string name="Friend_indAct_pasostotales">Total steps</string>
+    <string name="Friend_indAct_distancia">Total distance</string>
+    <string name="Friend_indAct_atras">BACK</string>
+    <!-- TOASTS Friend_indAct -->
+
+    <!-- TOASTS CambiarContrasenhaActivity -->
+    <string name="CamContrasenhaActivity_rellena_campos">Fill all fields</string>
+    <string name="CamContrasenhaActivity_contrasenhas_no_coinciden">Passwords don´t match</string>
+    <string name="CamContrasenhaActivity_contrasenha_actualizada">Password successfully uptaded</string>
+    <string name="CamContrasenhaActivity_contrasenha_no_actualizada">Something went wrong when updating password</string>
+    <!-- TOAST CambiarContrasenhaActivity -->
+
+    <!-- TOASTS - ALERTS HistorialActivity -->
+    <!-- ALERTS -->
+    <string name="HistorialActivity_borrar_pasos">ALL will be deleted</string>
+    <!-- ALERTS -->
+
+    <!-- TOAST - ALERT HistorialActivity -->
+
+    <!-- TOASTS InicioAct -->
+    <string name="InicioActivity_error_pasos_totales">Something went wrong when updating your steps</string>
+    <!-- TOAST InicioAct -->
+
+    <!-- TOASTS LoginActivity -->
+    <string name="LoginActivity_error_iniciar_sesion">Something went wrong when logging in</string>
+    <!-- TOAST LoginActivity -->
+
+    <!-- TOASTS - ALERTS LoginActivity -->
+    <string name="PerfilActivity_guardar_cambios">Changes were saved</string>
+    <string name="PerfilActivity_guardar_cambios_error">Something went wrong when saving changes</string>
+    <string name="PerfilActivity_id_copiado">ID Copied to clipboard</string>
+    <string name="PerfilActivity_guardar_variable_error">Something went wrong when saving new data</string>
+        <!-- ALERTS -->
+    <string name="PerfilActivity_guardar_estas_seguro">Do you really want to save changes?</string>
+    <string name="PerfilActivity_aceptar">Accept</string>
+    <string name="PerfilActivity_cancelar">Cancel</string>
+    <string name="PerfilActivity_guardar">Save</string>
+    <string name="PerfilActivity_abrir_galeria">Gallery will be opened</string>
+    <string name="PerfilActivity_elige_imagen">Select a picture</string>
+    <string name="PerfilActivity_editar_perfil">Edit profile</string>
+        <!-- ALERTS -->
+
+    <!-- TOAST - ALERT LoginActivity -->
+
+    <!-- TOASTS RecuperarContrasenhaActivity -->
+    <string name="RecuContrasenhaActivity_esperar">Wait a moment...</string>
+    <string name="RecuContrasenhaActivity_intro_mail">Enter an email</string>
+    <string name="RecuContrasenhaActivity_correo_enviado">Mail sent to retrieve password</string>
+    <string name="RecuContrasenhaActivity_correo_enviado_error">Something went wrong when sending email.Check your inbox</string>
+    <!-- TOAST RecuperarContrasenhaActivity -->
+
+    <!-- TOASTS RegistrarActivity -->
+    <string name="RegistrarActivity_usuario_registrado">Sign in succesfull</string>
+    <string name="RegistrarActivity_usuario_registrado_error">Something went wrong when signing in</string>
+    <string name="RegistrarActivity_datos_error">Your data couldn´t be created</string>
+    <!-- TOAST RegistrarActivity -->
+
+    <!-- IDIOMAS -->
+    <string-array name="languages">
+        <item>Español</item>
+        <item>English</item>
+        <item>Galego</item>
+    </string-array>
+    <!-- IDIOMAS -->
+
+    <!-- CONSEJOS -->
+    <string-array name="advices">
+        <item>Walk slowly and easily for about five minutes to warm up, then increase your speed for about 15 minutes</item>
+        <item>When walking, move your arms</item>
+        <item>Walk with your back upright, your abdomen flat, and your head up</item>
+        <item>Point your toes forward</item>
+        <item>Walk with a long stride that is comfortable and effortless</item>
+        <item>End your walk with a five minute cool down and some light stretching</item>
+        <item>If you have time, it\'s a good idea to go stretch your legs on your lunch break at work</item>
+        <item>Climbing floors on foot may be the best option to force yourself to do some physical activity</item>
+        <item>If you use public transportation, getting off a stop earlier on the subway or bus on your way to work can help you reach those 10 minutes a day</item>
+        <item>Wear clothing and footwear that make the experience comfortable</item>
+        <item>Drink a glass of water before and after walking</item>
+        <item>Find the right time. Avoid long walks after meals</item>
+        <item>Maintain an easy pace at the beginning and end of the walk</item>
+        <item>If you suffer from heart disease or any serious illness, consult your doctor before undertaking an exercise program</item>
+        <item>If you experience chest pain, dizziness, or nausea while walking or exercising, stop and see your doctor</item>
+        <item>Walk accompanied. Remember that walking with other people can be much more enjoyable than walking alone</item>
+        <item>Start small. Go progressively increasing the walk until you reach the recommended half hour</item>
+        <item>Have a good posture helps good circulation and opening of the rib cage</item>
+        <item>The ideal is to keep our gaze from three to six meters in front of us, so we will be able to avoid obstacles ahead and we will avoid tension in the upper part of the body</item>
+        <item>Keep your abs tight, but don\'t tuck your tailbone under or "pull out your belly"</item>
+    </string-array>
+    <!-- CONSEJOS -->
+</resources>

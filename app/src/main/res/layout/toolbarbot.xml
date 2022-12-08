@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/toolbar_design">
+
+    <ImageView
+        android:id="@+id/iv_amigos_tb"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.1"
+        android:src="@drawable/ic_baseline_diversity_3_24" />
+
+    <ImageView
+        android:id="@+id/iv_historial_tb"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.1"
+        android:src="@drawable/ic_baseline_history_24" />
+
+
+    <ImageView
+        android:id="@+id/iv_inicio_tb"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.1"
+        android:src="@drawable/ic_baseline_home_24" />
+
+    <ImageView
+        android:id="@+id/iv_ranking_tb"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.1"
+        android:src="@drawable/ic_baseline_emoji_events_24" />
+
+    <ImageView
+        android:id="@+id/iv_consejos_tb"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.1"
+        android:src="@drawable/ic_baseline_psychology_alt_24" />
+
+
+
+</LinearLayout>
